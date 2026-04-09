@@ -1,5 +1,5 @@
 ---
-name: cloud-logs
+name: google-cloud-logs-skill
 description: Query and filter Google Cloud Logging entries using the cloud_logs.py tool. Use when users ask about GCP logs, Cloud Logging, Kubernetes/GKE pod logs, Cloud Run logs, audit logs, error investigation, or need to search/export log entries. Triggers on requests like "show me recent errors", "check pod logs", "search logs for timeout", "list available logs", "audit log activity", or any Google Cloud Logging queries.
 ---
 
